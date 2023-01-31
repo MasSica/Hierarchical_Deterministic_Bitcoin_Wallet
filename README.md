@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this work is to build a hierrarchical deterministic bitcoin wallet with both regular and hardened child derivation. The entirety of teh work has been carried out using jupyter notebook and is throughly explained there.
+The goal of this work is to build a hierrarchical deterministic bitcoin wallet with both regular and hardened child derivation. The entirety of the work has been carried out using jupyter notebook and is throughly explained there.
 
 
 ## Disclaimer
